@@ -2,9 +2,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 500px;
+    width: 450px;
     border-radius: 10px;
-    background-color: #d3d3d3;
+    background-color: #603cd5;
     margin: 30px 5px;
 }
 
@@ -13,7 +13,7 @@
     flex-direction: column;
     width: 400px;
     margin: 10px auto;
-    font-size: 22px;
+    font-size: 25px;
     font-weight: 600;
 }
 
@@ -30,16 +30,16 @@
 }
 
 .contactAddInput:focus {
-    border: 1px solid #81aee2;
+    border: 1px solid #8ac5e3;
 }
 
 .contactAddBtn {
-    margin: 20px auto;
-    width: 270px;
-    background-color: #81aee2;
+    margin: 25px auto;
+    width: 280px;
+    background-color: #8ac5e3;
     border: none;
     color: white;
-    height: 40px;
+    height: 45px;
     border-radius: 10px;
     line-height: normal;
     font-size: initial;
@@ -50,8 +50,8 @@
 }
 
 .contactAddBtn:hover {
-    background-color: #556b2f;
+    background-color: #a3e335;
     cursor: pointer;
-    color: #81aee2;
+    color: #8ac5e3;
     transition: 250ms;
 }
